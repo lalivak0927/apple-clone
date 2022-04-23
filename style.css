@@ -100,7 +100,7 @@ nav {
   padding-bottom: 10px;
 }
 #product-img {
-  background: url(./Downloads/apple_clone-20220323T201802Z-001/apple_clone/images/iphone_13.jpg) center no-repeat;
+  background: url(./iphone_13.jpg) center no-repeat;
   height: 600px;
   margin-top: -200px;
   
@@ -132,16 +132,16 @@ nav {
   vertical-align: top;
 }
 #hero-watch {
-  background: url(./images/watch_large.jpg) center center no-repeat;
+  background: url(./watch_large.jpg) center center no-repeat;
 }
 #hero-ipad {
-  background: url(./images/ipad_pro_large.jpg) center center no-repeat;
+  background: url(./ipad_pro_large.jpg) center center no-repeat;
 }
 #hero-accessories {
-  background: url(./images/accessories_large.jpg) center center no-repeat;
+  background: url(./accessories_large.jpg) center center no-repeat;
 }
 #hero-macbook {
-  background: url(./images/macbook_large.jpg) center center no-repeat;
+  background: url(./macbook_large.jpg) center center no-repeat;
   border-right: none;
 }
 #exchange {
