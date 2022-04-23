@@ -132,16 +132,16 @@ nav {
   vertical-align: top;
 }
 #hero-watch {
-  background: url(images/watch_large.jpg) center center no-repeat;
+  background: url(./images/watch_large.jpg) center center no-repeat;
 }
 #hero-ipad {
-  background: url(images/ipad_pro_large.jpg) center center no-repeat;
+  background: url(./images/ipad_pro_large.jpg) center center no-repeat;
 }
 #hero-accessories {
-  background: url(images/accessories_large.jpg) center center no-repeat;
+  background: url(./images/accessories_large.jpg) center center no-repeat;
 }
 #hero-macbook {
-  background: url(images/macbook_large.jpg) center center no-repeat;
+  background: url(./images/macbook_large.jpg) center center no-repeat;
   border-right: none;
 }
 #exchange {
@@ -239,7 +239,7 @@ footer > .container{
   display: inline-block;
   height: 16px;
   width: 21px;
-  background: url(images/usa.png) 3px 0 no-repeat;
+  background: url(./images/usa.png) 3px 0 no-repeat;
   background-size: 16px 16px;
   margin-top: 1px;
   padding-right: 1px;
